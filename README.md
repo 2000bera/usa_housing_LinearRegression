@@ -28,8 +28,6 @@ Matplotlib and Seaborn (for visualizations)
 
 Numpy (for numeric)
 
-Warnings
-
 Scikit-Learn (for Linear Regression and evaluation)
 
 ## ✈ How to Run (Google Colab)
@@ -37,33 +35,31 @@ Scikit-Learn (for Linear Regression and evaluation)
 
 1. Open the project in GitHub.
    
-2. Click on the notebook in the `notebooks/` folder and go to `bank_clv_dataset.ipynb`.
+2. Click on the notebook in the `notebooks/` folder and go to `usa_housing.ipynb`.
    
 3. Click the **"Open in Colab"** button at the top of the notebook (or use the link below).
 
 Open in Colab:
 
 
-https://colab.research.google.com/drive/1ocX2wNv4KERg-sLJ9HkEwVChQMH9Y9To#scrollTo=sUoTt-z6pJIV
+https://colab.research.google.com/drive/1tRRZn0e35Uxy14oyZNZyd_TC1qoI9AJz
 
   
 ## 🔎 Results
 
-Mean square error: 654790.937155668
+Mean square error: 10228150563.06497
+
+Mean absolute error: 81043.15443239168
+
+Root mean square error: 101134.31941267499
 
 
-Mean absolute error: 704.8564353153521
-
-
-Root mean square error: 809.1915330474411
-
-
-Score: 0.9074936273808444
+Score: 0.9194399367657421
 
 ## 📟 Visualization
 
 
-<img width="595" height="459" alt="LR3" src="https://github.com/user-attachments/assets/2f7903d8-0a5d-4015-ab11-c793f37ee7b4" />
+<img width="567" height="464" alt="LR4" src="https://github.com/user-attachments/assets/e54120ce-2fac-4365-bf95-7e5d9c094b0e" />
 
 
 ## 📚 Learnings
