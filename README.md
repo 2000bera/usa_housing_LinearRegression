@@ -6,11 +6,15 @@
 Estimate how much profit a customer will bring to the bank over time.
 
 ## Dataset
+
+From my online Udemy course
+
+course - Python for Data Science and Machine Learning Bootcamp
  
-Site - https://github.com/kevilkhadka/Predicting-Customer-Lifetime-Value_CLV?tab=readme-ov-file
+Site - https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/learn/lecture/5440674#overview
 
  
-Data - bank_clv_dataset
+Data - USA Housing
 
 ## 🛠 Tools Use and Libraries
 
