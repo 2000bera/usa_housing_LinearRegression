@@ -3,7 +3,7 @@
 
 ## Project Description:
   
-Estimate how much profit a customer will bring to the bank over time.
+Estimate the house prices on overtime
 
 ## Dataset
 
